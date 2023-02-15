@@ -1,0 +1,13 @@
+p{
+	font-size:28px;
+	color:black;
+}
+p{
+	font-size:28px;
+	color:green !important;
+}
+
+b{
+	font-size:inherit;
+	color:red;
+}
